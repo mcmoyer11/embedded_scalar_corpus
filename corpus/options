@@ -1,0 +1,8 @@
+data=/Users/momo/Dropbox/projects/embedded_scalar_corpus/corpus/data/
+results=/Users/momo/Dropbox/projects/embedded_scalar_corpus/corpus/results/
+
+init ID
+
+add StringVar Sentence
+add CategoricalVar DoubleQuantifier=yes:DoubleQuantifier
+add CategoricalVar PrecedingQuantifier=yes:PrecedingQuantifier
