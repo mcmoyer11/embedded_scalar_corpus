@@ -6,3 +6,4 @@ init ID
 add StringVar Sentence
 add CategoricalVar DoubleQuantifier=yes:DoubleQuantifier
 add CategoricalVar PrecedingQuantifier=yes:PrecedingQuantifier
+add CategoricalVar Partitive=yes:Partitive
