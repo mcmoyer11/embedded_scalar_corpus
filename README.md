@@ -9,7 +9,7 @@ export TGREP2_CORPUS="$TGREP2ABLE/swbd.t2c.gz"
 export TDTlite="/Users/momo/Dropbox/corpora/TDTLite"
 export TDT_DATABASES="/Users/momo/Dropbox/TDTlite/databases"
 export PATH="/Users/momo/Dropbox/TDTlite:$PATH"
-# export PATH="$HOME/bin/linux_2_4/:$PATH"
+(export PATH="$HOME/bin/linux_2_4/:$PATH")
 
 
 
