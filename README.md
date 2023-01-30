@@ -22,3 +22,7 @@ tgrep2 -aft "* << PP @> *" | more
 to run
 run -c swbd -e -o
 
+tgrep2 -aftlw "/some/ .. /of/" | more
+
+tgrep2 -aftlw "/some/ >> /all|every|no|most|least/" | more
+
