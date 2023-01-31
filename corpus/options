@@ -8,3 +8,7 @@ add ParseVar SentenceParse
 add CategoricalVar DoubleQuantifier=yes:DoubleQuantifier
 add CategoricalVar PrecedingQuantifier=yes:PrecedingQuantifier
 add CategoricalVar Partitive=yes:Partitive
+add CategoricalVar SomeDT=yes:SomeDT
+add CategoricalVar SomeNN=yes:SomeNN
+add CategoricalVar SomeRB=yes:SomeRB
+add ParseVar SomeParse
