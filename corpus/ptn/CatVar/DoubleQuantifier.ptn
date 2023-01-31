@@ -1,1 +1,1 @@
-@SOME >> (/^S/ < /all|every|no|most|least/)
+@SOME >> (/^DT|^NN/ < /all|every|no|most|least/)
