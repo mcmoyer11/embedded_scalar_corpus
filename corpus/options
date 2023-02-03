@@ -4,7 +4,9 @@ results=/Users/momo/Dropbox/projects/embedded_scalar_corpus/corpus/results/
 init ID
 
 add StringVar Sentence
+add StringVar SomeForm
 add ParseVar SentenceParse
+add CategoricalVar EmbeddedClause=yes:EmbeddedClause
 add CategoricalVar DoubleQuantifier=yes:DoubleQuantifier
 add CategoricalVar PrecedingQuantifier=yes:PrecedingQuantifier
 add CategoricalVar SameSentencePQ=yes:SameSentencePQ
